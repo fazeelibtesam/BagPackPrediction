@@ -33,8 +33,10 @@ While this wasn’t a top-ranking result, the competition gave me valuable hands
 
 ## 📂 Contents
 
-This repo may include (depending on what you’ve added):
-- Notebooks with my experiments and approach
+This repo includes:
+- Kaggke Notebook with my experiments and approach
 - Scripts for data preprocessing and model training
 - Notes and observations from the competition
+- Dataset used
+- Output and predictions
 
