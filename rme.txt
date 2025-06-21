@@ -1,3 +1,8 @@
+Random forest Regressor: Mean Squared Error: 1611.8730869290898
+Hyperparameter : Best parameters found:  {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 200}
+Mean Absolute Error (MAE): 33.65
+Mean Squared Error (MSE): 1515.05
+R-squared (R²): 0.00
 
 Cross-validated MSE:  1621.0328946206882
 
